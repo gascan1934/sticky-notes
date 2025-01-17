@@ -51,6 +51,24 @@ This tool lets you create, open, edit, and save text files with an intuitive int
 
 📄 License
 
+# 📝 cmd-shell notes
+
+🚀 A simple word processor with built-in **CMD & PowerShell switching**, **Dark Mode**, and **Font Controls**.
+
+## 🔹 Features
+✅ **Write, open, and save notes**  
+✅ **Built-in CMD & PowerShell toggling**  
+✅ **Dark Mode support**  
+✅ **Font size customization**  
+✅ **Minimalist UI for quick note-taking**  
+
+## 🛠 Installation
+1. Clone the repo or download `notepad.py`
+2. Run it with:
+   ```sh
+   python notepad.py
+
+
 This project is licensed under the MIT License – feel free to use, modify, and distribute!
 🌟 Contributing
 
