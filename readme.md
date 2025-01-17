@@ -1,5 +1,5 @@
 
-📝 Quick NotePad
+📝 Notes
 
 🚀 A simple, lightweight word processor built with Python and Tkinter.
 
